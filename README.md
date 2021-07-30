@@ -1,7 +1,7 @@
 ## Welcome to Kochiyama's Profile!
 
 - 🖥️ I’m currently working on [tiUnigran](https://github.com/tiUnigran)
-- 📫 How to reach me: kochiyama.pro@gmail.com
+- 💡 I'm currently learning about: Databases, Full Stack Dev, Investiments, Eletric Guitars
 
 <div> 
   <a href="https://instagram.com/mhkochiyama" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
