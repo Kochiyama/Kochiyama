@@ -1,8 +1,7 @@
 # Hi 👋, Welcome to my GitHub
-### Marcelo Kochyiama, Javascript Full Stack Developer.</h3>
+### Marcelo Kochyiama, Full Stack Developer, Project Manager, and Designer.</h3>
 
-🔭 Currently working as a **Full time developer at UNIGRAN**.  
-🎓 Currently enrolled in a **Software Engineering Bachelors**.   
+🔭 Currently working as a **Full Stack Developer at Delta Sistemas**.  
 📫 How to reach me **kochiyama.pro@gmail.com**.   
 
 Here you will find some projects built on React, Next.js, Node, NestJS, etc. I like to put in practice everything I learn, because without it, you don't really learned it. Some of the projects are original creations, and some were created during community events like rocketseat's NLW.
