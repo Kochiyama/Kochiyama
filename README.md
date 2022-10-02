@@ -1,5 +1,5 @@
 # Hi 👋, Welcome to my GitHub
-### Marcelo Kochyiama, Full Stack Developer, Project Manager, and Designer.</h3>
+### Marcelo Kochiyama, Full Stack Developer, Project Manager, and Designer.</h3>
 
 🔭 Currently working as a **Full Stack Developer at Delta Sistemas**.  
 📫 How to reach me **kochiyama.pro@gmail.com**.   
