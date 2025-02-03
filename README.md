@@ -1,15 +1,15 @@
 # Hi 👋, Welcome to my GitHub
-### Marcelo Kochiyama, Full Stack Developer, Project Manager, and Designer.</h3>
+### Marcelo Kochiyama, Full Stack Developer and Designer.</h3>
 
-🔭 Currently working as a **Full Stack Developer at Delta Sistemas** & **Tech Lead at Solarpipe**.  
+🔭 Currently working as a **Front end Developer at Arke Systems**.  
 📫 How to reach me **dev@marcelokochiyama.com**.   
 
 Here you will find some projects built on React, Next.js, Node, NestJS, etc. I like to put in practice everything I learn, because without it, you don't really learned it. Some of the projects are original creations, and some were created during community events like rocketseat's NLW.
 
 <div align="center">
    <a href="https://github.com/Kochiyama">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kochiyama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=ffffff00"/>
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Kochiyama&theme=tokyonight&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kochiyama&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&border_color=ffffff00"/>
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Kochiyama&theme=rose_pine&hide_border=true" />
   </a>
 </div>
 
